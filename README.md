@@ -1,2 +1,2 @@
 # sldc
-Checks DNS for IP of a secondary level domain across all TLDs
+Checks DNS for IPs of a secondary level domain across all TLDs
